@@ -1,0 +1,10 @@
+{
+  "apps": [
+    {
+      "name": "cicd",
+      "script": "npx",
+      "interpreter": "none",
+      "args": "serve -s -p 3000"
+    }
+  ]
+}
